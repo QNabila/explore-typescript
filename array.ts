@@ -1,0 +1,1 @@
+const friend: string[] = ['nabila', 'tasmia'];
